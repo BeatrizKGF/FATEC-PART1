@@ -1,0 +1,14 @@
+C:\Users\fujii\source\repos\FATEC\FATEC\bin\Debug\net8.0\Ex 1.exe
+C:\Users\fujii\source\repos\FATEC\FATEC\bin\Debug\net8.0\Ex 1.deps.json
+C:\Users\fujii\source\repos\FATEC\FATEC\bin\Debug\net8.0\Ex 1.runtimeconfig.json
+C:\Users\fujii\source\repos\FATEC\FATEC\bin\Debug\net8.0\Ex 1.dll
+C:\Users\fujii\source\repos\FATEC\FATEC\bin\Debug\net8.0\Ex 1.pdb
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.AssemblyInfoInputs.cache
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.AssemblyInfo.cs
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.csproj.CoreCompileInputs.cache
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.dll
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\refint\Ex 1.dll
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.pdb
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\Ex 1.genruntimeconfig.cache
+C:\Users\fujii\source\repos\FATEC\FATEC\obj\Debug\net8.0\ref\Ex 1.dll

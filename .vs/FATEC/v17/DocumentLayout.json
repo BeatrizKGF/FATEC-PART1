@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fujii\\source\\repos\\FATEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED54C4A-59A9-4F2F-ADFE-07D02BB4DD20}|Ex 20\\Ex 20.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 20\\ex 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED54C4A-59A9-4F2F-ADFE-07D02BB4DD20}|Ex 20\\Ex 20.csproj|solutionrelative:ex 20\\ex 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F90CE1B-6CA4-4C21-AEF2-09E30A4C2FBC}|Ex 19\\Ex 19.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 19\\ex 19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F90CE1B-6CA4-4C21-AEF2-09E30A4C2FBC}|Ex 19\\Ex 19.csproj|solutionrelative:ex 19\\ex 19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A606-FDA3-4E8E-B3F1-795ED0AB1ACF}|Ex 16\\Ex 16.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 16\\ex 16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4947A606-FDA3-4E8E-B3F1-795ED0AB1ACF}|Ex 16\\Ex 16.csproj|solutionrelative:ex 16\\ex 16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A711AEC1-2909-441F-BB7C-F10291BC346E}|Ex 18\\Ex 18.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 18\\ex 18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A711AEC1-2909-441F-BB7C-F10291BC346E}|Ex 18\\Ex 18.csproj|solutionrelative:ex 18\\ex 18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F368968-B0BF-40C9-B6D2-EC75FCB39A09}|Ex 17\\Ex 17.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 17\\ex 17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F368968-B0BF-40C9-B6D2-EC75FCB39A09}|Ex 17\\Ex 17.csproj|solutionrelative:ex 17\\ex 17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD09CDF-C746-4639-B436-6BE1C13C0F85}|Ex 15\\Ex 15.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 15\\ex 15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD09CDF-C746-4639-B436-6BE1C13C0F85}|Ex 15\\Ex 15.csproj|solutionrelative:ex 15\\ex 15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981B42E-FD64-4F60-A056-D26E7DB0B054}|Ex 13\\Ex 13.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 13\\ex 13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981B42E-FD64-4F60-A056-D26E7DB0B054}|Ex 13\\Ex 13.csproj|solutionrelative:ex 13\\ex 13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B596ACDB-D96F-4A6F-930E-AB5C6BDC486F}|Ex 14\\Ex 14.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 14\\ex 14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B596ACDB-D96F-4A6F-930E-AB5C6BDC486F}|Ex 14\\Ex 14.csproj|solutionrelative:ex 14\\ex 14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F6D889-F9FD-4560-8E08-2E2105315ED8}|FATEC\\Ex 1.csproj|c:\\users\\fujii\\source\\repos\\fatec\\fatec\\ex 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F6D889-F9FD-4560-8E08-2E2105315ED8}|FATEC\\Ex 1.csproj|solutionrelative:fatec\\ex 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9036BB-B162-4D1B-B506-0E2700B2BD03}|Ex 9\\Ex 9.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 9\\ex 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9036BB-B162-4D1B-B506-0E2700B2BD03}|Ex 9\\Ex 9.csproj|solutionrelative:ex 9\\ex 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D537CB-4C90-410B-BC71-1F1D2462F099}|Ex 12\\Ex 12.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 12\\ex 12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D537CB-4C90-410B-BC71-1F1D2462F099}|Ex 12\\Ex 12.csproj|solutionrelative:ex 12\\ex 12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5F755D-ED8E-4A9A-BD97-DFE52D1C60CB}|Ex 8\\Ex 8.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 8\\ex 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5F755D-ED8E-4A9A-BD97-DFE52D1C60CB}|Ex 8\\Ex 8.csproj|solutionrelative:ex 8\\ex 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FA7D21-999C-45F4-9B1B-13EEBEFF3330}|Ex 7\\Ex 7.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 7\\ex 7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FA7D21-999C-45F4-9B1B-13EEBEFF3330}|Ex 7\\Ex 7.csproj|solutionrelative:ex 7\\ex 7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AF99AA-89D8-4542-961A-7E66CAA01130}|Ex 10\\Ex 10.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 10\\ex 10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AF99AA-89D8-4542-961A-7E66CAA01130}|Ex 10\\Ex 10.csproj|solutionrelative:ex 10\\ex 10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B502D4B-5C55-4DEE-B422-29FE28AAE530}|Ex 2\\Ex 2.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 2\\ex 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B502D4B-5C55-4DEE-B422-29FE28AAE530}|Ex 2\\Ex 2.csproj|solutionrelative:ex 2\\ex 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E031D8-03B6-4181-8361-A61015B6AE33}|Ex 4\\Ex 4.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 4\\ex 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E031D8-03B6-4181-8361-A61015B6AE33}|Ex 4\\Ex 4.csproj|solutionrelative:ex 4\\ex 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB289C-FE5F-4E9B-A1DE-3452ED525E12}|Ex 5\\Ex 5.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 5\\ex 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB289C-FE5F-4E9B-A1DE-3452ED525E12}|Ex 5\\Ex 5.csproj|solutionrelative:ex 5\\ex 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07459918-191B-43F9-AC17-3E547283D84C}|Ex 6\\Ex 6.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 6\\ex 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07459918-191B-43F9-AC17-3E547283D84C}|Ex 6\\Ex 6.csproj|solutionrelative:ex 6\\ex 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF7989A-AE12-4DC8-8D4F-178E5F1B3266}|Ex 11\\Ex 11.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 11\\ex 11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF7989A-AE12-4DC8-8D4F-178E5F1B3266}|Ex 11\\Ex 11.csproj|solutionrelative:ex 11\\ex 11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A169C07-5390-4D25-9BA7-881237E83F98}|Ex 3\\Ex 3.csproj|c:\\users\\fujii\\source\\repos\\fatec\\ex 3\\ex 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A169C07-5390-4D25-9BA7-881237E83F98}|Ex 3\\Ex 3.csproj|solutionrelative:ex 3\\ex 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex 20.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 20\\Ex 20.cs",
+              "RelativeDocumentMoniker": "Ex 20\\Ex 20.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 20\\Ex 20.cs",
+              "RelativeToolTip": "Ex 20\\Ex 20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:44:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex 19.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 19\\Ex 19.cs",
+              "RelativeDocumentMoniker": "Ex 19\\Ex 19.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 19\\Ex 19.cs",
+              "RelativeToolTip": "Ex 19\\Ex 19.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:32:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ex 1.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\FATEC\\Ex 1.cs",
+              "RelativeDocumentMoniker": "FATEC\\Ex 1.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\FATEC\\Ex 1.cs",
+              "RelativeToolTip": "FATEC\\Ex 1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:41:44.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ex 2.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 2\\Ex 2.cs",
+              "RelativeDocumentMoniker": "Ex 2\\Ex 2.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 2\\Ex 2.cs",
+              "RelativeToolTip": "Ex 2\\Ex 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:26:12.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ex 3.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 3\\Ex 3.cs",
+              "RelativeDocumentMoniker": "Ex 3\\Ex 3.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 3\\Ex 3.cs",
+              "RelativeToolTip": "Ex 3\\Ex 3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:29:02.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ex 4.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 4\\Ex 4.cs",
+              "RelativeDocumentMoniker": "Ex 4\\Ex 4.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 4\\Ex 4.cs",
+              "RelativeToolTip": "Ex 4\\Ex 4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:59:39.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ex 5.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 5\\Ex 5.cs",
+              "RelativeDocumentMoniker": "Ex 5\\Ex 5.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 5\\Ex 5.cs",
+              "RelativeToolTip": "Ex 5\\Ex 5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:01:53.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ex 6.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 6\\Ex 6.cs",
+              "RelativeDocumentMoniker": "Ex 6\\Ex 6.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 6\\Ex 6.cs",
+              "RelativeToolTip": "Ex 6\\Ex 6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:43:17.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ex 7.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 7\\Ex 7.cs",
+              "RelativeDocumentMoniker": "Ex 7\\Ex 7.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 7\\Ex 7.cs",
+              "RelativeToolTip": "Ex 7\\Ex 7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:52:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ex 8.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 8\\Ex 8.cs",
+              "RelativeDocumentMoniker": "Ex 8\\Ex 8.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 8\\Ex 8.cs",
+              "RelativeToolTip": "Ex 8\\Ex 8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:16:21.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ex 9.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 9\\Ex 9.cs",
+              "RelativeDocumentMoniker": "Ex 9\\Ex 9.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 9\\Ex 9.cs",
+              "RelativeToolTip": "Ex 9\\Ex 9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:31:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ex 10.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 10\\Ex 10.cs",
+              "RelativeDocumentMoniker": "Ex 10\\Ex 10.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 10\\Ex 10.cs",
+              "RelativeToolTip": "Ex 10\\Ex 10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:47:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ex 11.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 11\\Ex 11.cs",
+              "RelativeDocumentMoniker": "Ex 11\\Ex 11.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 11\\Ex 11.cs",
+              "RelativeToolTip": "Ex 11\\Ex 11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:00:42.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ex 12.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 12\\Ex 12.cs",
+              "RelativeDocumentMoniker": "Ex 12\\Ex 12.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 12\\Ex 12.cs",
+              "RelativeToolTip": "Ex 12\\Ex 12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:13:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ex 13.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 13\\Ex 13.cs",
+              "RelativeDocumentMoniker": "Ex 13\\Ex 13.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 13\\Ex 13.cs",
+              "RelativeToolTip": "Ex 13\\Ex 13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:21:40.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ex 14.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 14\\Ex 14.cs",
+              "RelativeDocumentMoniker": "Ex 14\\Ex 14.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 14\\Ex 14.cs",
+              "RelativeToolTip": "Ex 14\\Ex 14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:37:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ex 15.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 15\\Ex 15.cs",
+              "RelativeDocumentMoniker": "Ex 15\\Ex 15.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 15\\Ex 15.cs",
+              "RelativeToolTip": "Ex 15\\Ex 15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:04:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex 16.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 16\\Ex 16.cs",
+              "RelativeDocumentMoniker": "Ex 16\\Ex 16.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 16\\Ex 16.cs",
+              "RelativeToolTip": "Ex 16\\Ex 16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:46:36.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex 18.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 18\\Ex 18.cs",
+              "RelativeDocumentMoniker": "Ex 18\\Ex 18.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 18\\Ex 18.cs",
+              "RelativeToolTip": "Ex 18\\Ex 18.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:30:45.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex 17.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 17\\Ex 17.cs",
+              "RelativeDocumentMoniker": "Ex 17\\Ex 17.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC\\Ex 17\\Ex 17.cs",
+              "RelativeToolTip": "Ex 17\\Ex 17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:58:56.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
